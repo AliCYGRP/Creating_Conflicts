@@ -1,3 +1,3 @@
-Hi this is common point
+EXPLOSION
 
 Common point being changed from branch1
